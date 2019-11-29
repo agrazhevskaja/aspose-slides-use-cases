@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aspose.Slides</string>
+    <string name="text_main_activity">Aspose.Slides Demo App</string>
+    <string name="title_button_open_presentation">Open</string>
+</resources>

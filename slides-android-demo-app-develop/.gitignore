@@ -1,0 +1,12 @@
+.gradle
+.idea
+local.properties
+build
+out
+bin
+target
+test-output
+.settings
+.eclipse
+.idea
+*.iml
